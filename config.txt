@@ -1,0 +1,6 @@
+﻿token= NjExOTcyMzI5MTE5MTU0MTc5.XVbrtw.eS4A5P6PmVIM0BiT7hL575iXeY0
+owner= 600369127907131412
+prefix= 1
+game= 1play
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
